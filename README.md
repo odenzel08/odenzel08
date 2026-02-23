@@ -1,19 +1,18 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">⚡ Denzel Oliveira</h1>
+<h1 align="center">⚡ Denzel de Oliveira Odilichukwu</h1>
 
 <p align="center">
-<b>Desenvolvedor Salesforce Júnior focado em Backend,<br/>
-Apex, Lightning Web Components (LWC) e Java</b>
+<b>Desenvolvedor Salesforce Júnior</b>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/denzel-odilichukwu/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+<a href="contato.denzelodilichukwu@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/SEU-USUARIO" target="_blank">
+<a href="https://github.com/odenzel08" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -25,7 +24,7 @@ Apex, Lightning Web Components (LWC) e Java</b>
 
 <ul>
 <li>⚡ Desenvolvedor <b>Salesforce Júnior</b> com foco em backend e regras de negócio</li>
-<li>☁️ Experiência prática com <b>Apex, Triggers, Classes, SOQL e LWC</b></li>
+<li>☁️ Experiência prática com <b>Apex, Triggers, Classes, SOQL, LWC, Sales e Service Cloud</b></li>
 <li>🔗 Desenvolvimento de integrações utilizando <b>REST API</b></li>
 <li>☕ Conhecimentos sólidos em <b>Java</b> e fundamentos de arquitetura backend</li>
 <li>🧠 Estudo constante de boas práticas, clean code e padrões de projeto</li>
@@ -37,8 +36,8 @@ Apex, Lightning Web Components (LWC) e Java</b>
 <h2>🎓 Formação Acadêmica</h2>
 
 <ul>
-<li>🎓 <b>Análise e Desenvolvimento de Sistemas</b></li>
-<li>📚 Cursos e estudos contínuos em <b>Salesforce, Java e Backend</b></li>
+<li>🎓 <b>Engenharia de Software</b></li>
+<li>📚 Preparação para certificações <b>Platform Developer I e Admin</b></li>
 </ul>
 
 <hr/>
@@ -73,7 +72,7 @@ Apex, Lightning Web Components (LWC) e Java</b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42"/>
 </p>
 
-<p><b>📌 Em evolução:</b> Java Spring Boot • Arquitetura de Software • Cloud</p>
+<p><b>📌 Em evolução:</b> Event-Driven Architecture (Platform Events) • CI/CD • Experience Cloud</p>
 
 <hr/>
 
