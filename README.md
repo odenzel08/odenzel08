@@ -82,15 +82,15 @@
 <ul>
 <li>
 ⚡ <b>Fleet Tracer (Salesforce)</b><br/>
-Sistema de gerenciamento de solicitações utilizando Apex e Lightning Web Components<br/>
-🔹 Triggers • Classes • SOQL • REST API • LWC <br/>
+Sistema de gerenciamento de entregas e calculo de comissão dos motoristas<br/>
+🔹 Triggers • Classes • SOQL • REST API • LWC • Apex Enterprise Patterns <br/>
 🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
 </li>
 <br/>
 <li>
 ☁️ <b>Delivery Track (Java)</b><br/>
-Projeto focado em regras de negócio, validações e boas práticas Apex<br/>
-🔹 Spring • Hibernate • PostgresSQL • LWC <br/>
-🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
+O projeto foi desenvolvido usando Java + Spring. O objetivo é simular um sistema de rastreamento de entregas do mundo real, aplicando boas práticas de programação e arquitetura.<br/>
+🔹 Spring • JPA/Hibernate • PostgresSQL • Maven <br/>
+🔗 <a href="https://github.com/odenzel08/api-delivery-tracer">Ver repositório</a>
 </li>
 </ul>
