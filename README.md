@@ -93,28 +93,6 @@ Projeto focado em regras de negócio, validações e boas práticas Apex<br/>
 🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
 </li>
 </ul>
-
-<hr/>
-
-<!-- ================= STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU-USUARIO&theme=tokyonight"
-  alt="Profile details"
-/>
-</p>
-
-<p align="center">
-<img
-  src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"
-  alt="GitHub streak"
-/>
-</p>
-
-<hr/>
-
 <!-- ================= SNAKE ================= -->
 <h2 align="center">🐍 Contribuições</h2>
 
