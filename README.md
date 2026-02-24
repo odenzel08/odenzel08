@@ -81,15 +81,16 @@
 
 <ul>
 <li>
-⚡ <b>Delivery Tracker (Salesforce)</b><br/>
+⚡ <b>Fleet Tracer (Salesforce)</b><br/>
 Sistema de gerenciamento de solicitações utilizando Apex e Lightning Web Components<br/>
-🔹 Triggers • Classes • SOQL • REST API<br/>
+🔹 Triggers • Classes • SOQL • REST API • LWC <br/>
 🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
 </li>
 <br/>
 <li>
-☁️ <b>Automação de Processos Salesforce</b><br/>
+☁️ <b>Delivery Track (Java)</b><br/>
 Projeto focado em regras de negócio, validações e boas práticas Apex<br/>
+🔹 Spring • Hibernate • PostgresSQL • LWC <br/>
 🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
 </li>
 </ul>
