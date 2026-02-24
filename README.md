@@ -84,7 +84,7 @@
 ⚡ <b>Fleet Tracer (Salesforce)</b><br/>
 Sistema de gerenciamento de entregas e calculo de comissão dos motoristas<br/>
 🔹 Triggers • Classes • SOQL • REST API • LWC • Apex Enterprise Patterns <br/>
-🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
+🔗 <a href="https://github.com/odenzel08/fleet-tracer-salesforce">Ver repositório</a>
 </li>
 <br/>
 <li>
