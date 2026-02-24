@@ -93,12 +93,3 @@ Projeto focado em regras de negócio, validações e boas práticas Apex<br/>
 🔗 <a href="LINK-DO-REPOSITORIO">Ver repositório</a>
 </li>
 </ul>
-<!-- ================= SNAKE ================= -->
-<h2 align="center">🐍 Contribuições</h2>
-
-<p align="center">
-<img
-  src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg"
-  alt="Snake animation"
-/>
-</p>
