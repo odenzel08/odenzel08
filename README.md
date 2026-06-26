@@ -72,7 +72,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42"/>
 </p>
 
-<p><b>📌 Em evolução:</b> Event-Driven Architecture (Platform Events) • CI/CD • Experience Cloud</p>
+<p><b>📌 Em evolução:</b> Event-Driven Architecture (Platform Events) • CI/CD • Marketing Cloud</p>
 
 <hr/>
 
